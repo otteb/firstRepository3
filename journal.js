@@ -1,0 +1,1 @@
+var journal = ["DM-14 is gonna get me to the promised land!"];
